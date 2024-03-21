@@ -12,3 +12,8 @@ Coloque entre asteriscos duplos ou entre underlines duplos.
 
 **Markdown**
 
+##### RISCADO (STRIKE)
+
+Coloque entre dois símbolos de til.
+
+~~Markdown~~
