@@ -1,11 +1,14 @@
 MARKDOWN
 
-### ITÁLICO
+##### ITÁLICO
 
 Coloque entre asteriscos simples ou entre underlines simples.
+
 *Markdown*
 
-### NEGRITO
+##### NEGRITO
 
 Coloque entre asteriscos duplos ou entre underlines duplos.
+
 **Markdown**
+
