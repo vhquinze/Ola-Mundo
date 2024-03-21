@@ -4,16 +4,13 @@ MARKDOWN
 
 Coloque entre asteriscos simples ou entre underlines simples.
 
-*Markdown*
 
 ##### NEGRITO
 
 Coloque entre asteriscos duplos ou entre underlines duplos.
 
-**Markdown**
 
 ##### RISCADO (STRIKE)
 
 Coloque entre dois símbolos de til.
 
-~~Markdown~~
